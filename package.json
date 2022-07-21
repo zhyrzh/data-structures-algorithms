@@ -6,7 +6,7 @@
   "author": "<arongrhyz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
